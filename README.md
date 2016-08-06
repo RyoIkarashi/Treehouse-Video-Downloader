@@ -13,3 +13,7 @@ pip install
 python main.py
 ```
 
+### TODO
+- [ ] Allow browsing by tracks
+- [ ] Clean up downloading
+- [ ] Clean up CLI
