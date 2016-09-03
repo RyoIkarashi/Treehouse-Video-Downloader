@@ -6,10 +6,13 @@ A simple CLI for downloading videos from teamtreehouse.com
 - Python 3
 - requests
 
+### Installation ###
+```
+pio install -r requirements.txt
+```
 
 ### Usage ###
 ```
-pip install
 python main.py
 ```
 
