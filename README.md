@@ -8,7 +8,7 @@ A simple CLI for downloading videos from teamtreehouse.com
 
 ### Installation ###
 ```
-pio install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage ###
